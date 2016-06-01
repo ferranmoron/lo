@@ -1,0 +1,17 @@
+/* CSS Document */
+/* Estils nous de planes d'ajudes */
+body{margin:0!important;padding:0px;}
+.ajudes { padding:15px;}
+.pie{ display:block; height:30px;bottom:0;}
+.ul_taula{ margin-bottom:15px; display:block;border-collapse:collapse;}
+.ul_taula li{ background:#f6f6f6!important; border-top:#Ccc 1px solid;border-bottom:#Ccc 1px solid; border-collapse:collapse; line-height:32px; margin-top:-1px;font-weight:bold;}
+.ul_taula li:hover{ background:#E5F5FB!important; }
+.ul_taula li a {text-decoration:none; margin-left:5px;}
+.ul_taula li a:hover{text-decoration: underline!important;}
+span.ico_list{ background:url(../images/num_box.png) no-repeat center 3px; text-align:center; color:#000; height:23px; width:19px; display:inline-block; margin-right:10px;font-weight:bold; line-height:26px; margin-left:5px;}
+.alt30{ line-height:30px;}
+.ajudes h1{ margin-bottom:10px;margin-top:10px;}
+.ajudes h2{ margin-bottom:15px;}
+ul li a:hover{text-decoration:none!important;}
+.ajudes ul.funciones_tit li.ajuda,.ajudes ul.funciones_tit li a.printgreen {margin: 0 5px 0 0;}
+.ajudes img{max-width:540px;/*amplada maxima per a correcta visualitzacio dins finestra popup*/}
